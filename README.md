@@ -1,4 +1,4 @@
-# Flarum
+# flarum
 
 For consideration as the antibrand website's forum software.
 
@@ -7,5 +7,5 @@ For consideration as the antibrand website's forum software.
 You must have SSH access to a server with **PHP 7.1+** and **MySQL 5.6+**, and install [Composer](https://getcomposer.org/).
 
 ```
-composer create-project flarum/flarum . --stability=beta
+composer create-project antibrand/flarum . --stability=beta
 ```
